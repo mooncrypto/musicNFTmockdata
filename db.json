@@ -1,21 +1,25 @@
 {
-    "id": 0,
-    "description": "Music NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "Music NFT 0"
-  },
-  {
-    "id": 1,
-    "description": "Music NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "Music NFT 1"
-  },
-  {
-    "id": 2,
-    "description": "Music NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "Music NFT 2"
-  }
+    "posts": [
+        {
+            "id": 0,
+            "description": "Music NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Music NFT 0"
+          },
+          {
+            "id": 1,
+            "description": "Music NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Music NFT 1"
+          },
+          {
+            "id": 2,
+            "description": "Music NFT",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "Music NFT 2"
+      }
+    ]
+}
